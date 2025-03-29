@@ -44,7 +44,7 @@ body {
     height: 100%;
     background-color: white;
     border-radius: 50%;
-    background-image: url(../_imagens/modoSol.png);
+    background-image: url(../imagens/modoSol.png);
     background-size: 70%;
     background-repeat: no-repeat;
     background-position: center;
@@ -53,7 +53,7 @@ body {
 }
 
 .selecao-fundo-imagem {
-    background-image: url(../_imagens/modoLua.png);
+    background-image: url(../imagens/modoLua.png);
     background-color: black;
 }
 
@@ -298,7 +298,7 @@ main {
 }
 
 .container2 {
-    background-image: url(../_imagens/undertaleWallpaper3.gif);
+    background-image: url(../imagens/undertaleWallpaper3.gif);
     background-position: center;
     background-color: black;
     background-size: 28%;
@@ -306,7 +306,7 @@ main {
 }
 
 .container4 {
-    background-image: url(../_imagens/undertaleWallpaper.gif);
+    background-image: url(../imagens/undertaleWallpaper.gif);
 }
 
 .container4 img {
@@ -323,7 +323,7 @@ main {
 }
 
 .container5 {
-    background-image: url(../_imagens/deltaruneWallpaper3.jpg);
+    background-image: url(../imagens/deltaruneWallpaper3.jpg);
     background-position: top;
     background-color: black;
     background-size: 345px;
